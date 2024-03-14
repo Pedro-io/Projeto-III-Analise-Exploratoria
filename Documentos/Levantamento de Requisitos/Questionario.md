@@ -1,82 +1,84 @@
-# Questionário para Levantamento de Requisitos - Projeto de Análise de Dados das Estações Meteorológicas
+# Questionário para Levantamento de Requisitos
 
-## Informações Gerais
+## Fase 1: Reunião Inicial
 
-1. **Nome Completo:**
-   - [ ] 
+### Gravação da Reunião
 
-2. **Cargo/Posição na Organização:**
-   - [ ] 
+- [ ] **Seria possível gravar esta reunião para garantir a precisão das informações?**
 
-3. **Email:**
-   - [ ] 
+### Dados do Entrevistado
 
-4. **Telefone de Contato:**
-   - [ ] 
-
-## Sobre a Gravação da Reunião
-
-5. **Será possível gravar a reunião para referência futura?**
-   - [ ] Sim
-   - [ ] Não
-
-## Sobre a Entrega do Projeto
-
-6. **Como gostaria que fosse entregue o projeto final?**
-   - [ ] Painel ou Dashboard de BI
-   - [ ] Integração em uma plataforma online
-   - [ ] Outros: [________]
-
-7. **Há alguma restrição para uma possível publicação do projeto? Se sim, quais seriam essas restrições?**
-   - [ ] 
-
-## Sobre as Estações Meteorológicas
-
-### Estação Colmeia
-
-8. **Com que frequência a Estação Colmeia recebe os dados meteorológicos?**
-   - [ ] 
-
-9. **Qual é o modelo da Estação Colmeia?**
-   - [ ] 
-
-### Estação Girassol
-
-10. **Com que frequência a Estação Girassol recebe os dados meteorológicos?**
-    - [ ] 
-
-11. **Qual é o modelo da Estação Girassol?**
-    - [ ] 
-
-## Integração dos Dados
-
-12. **Como é feita a integração dos dados das estações Colmeia e Girassol?**
-    - [ ] 
-
-## Requisitos Funcionais
-
-13. **Como gostaria de receber o resultado da análise de dados?**
-    - [ ] Painel ou Dashboard de BI
-    - [ ] Integração em uma plataforma online
-    - [ ] Outros: [________]
-
-14. **Quem terá acesso ao relatório ou aos resultados da análise de dados?**
-    - [ ] 
-
-## Estrutura e Suporte Técnico
-
-15. **Possuem estrutura para armazenamento e manutenção do relatório ou dos resultados da análise?**
-    - [ ] 
-
-16. **Atualmente utilizam alguma ferramenta ou sistema para coleta e análise de dados meteorológicos?**
-    - [ ] 
-
-17. **Caso já utilizem alguma ferramenta, desejam continuar utilizando para este projeto?**
-    - [ ] 
-
-18. **Recebem suporte de um time de TI para auxiliar na coleta de dados ou na manutenção de sistemas?**
-    - [ ] 
+- **Nome:**
+- **Cargo/Função:**
+- **Área/Setor:**
+- **Data da Entrevista:**
 
 ---
 
-*Data de Preenchimento:*
+## Fase 2: Identificação dos Desafios
+
+### 1. Identificação dos Desafios
+
+- Como são atualmente realizadas as análises de dados na organização?
+    - **Resposta:**
+    
+- Quais são os principais obstáculos encontrados ao lidar com relatórios e dados?
+    - **Resposta:**
+    
+- Como esses desafios impactam o trabalho diário e a tomada de decisões?
+    - **Resposta:**
+    
+- Quando foi a última vez que os dados foram utilizados para tomar decisões?
+    - **Resposta:**
+    
+- Onde estão armazenados os dados atualmente?
+    - **Resposta:**
+    
+- Quais ferramentas e softwares são utilizados para análise de dados?
+    - **Resposta:**
+    
+- Quantas pessoas estão envolvidas no processo de análise e fechamento dos relatórios?
+    - **Resposta:**
+    
+- Existem áreas ou processos que poderiam ser mais eficientes?
+    - **Resposta:**
+    
+- Se esses desafios não forem abordados, qual você acredita que será o impacto a curto e longo prazo?
+    - **Resposta:**
+    
+- Já foram feitas tentativas anteriores de resolver esses problemas? Se sim, quais foram os resultados?
+    - **Resposta:**
+    
+- Quais são as principais barreiras ou desafios que você prevê ao tentar resolver essas questões?
+    - **Resposta:**
+
+### 2. Definição dos Requisitos Funcionais
+
+- Quais eventos e indicadores importantes precisam ser acompanhados?
+    - **Resposta:**
+    
+- Quais são as regras associadas a esses indicadores?
+    - **Resposta:**
+    
+- Existem benchmarks ou referências para interpretar esses indicadores?
+    - **Resposta:**
+    
+- Como você gostaria de visualizar e analisar esses indicadores?
+    - **Resposta:**
+    
+- Quais ações devem ser tomadas com base nos resultados obtidos?
+    - **Resposta:**
+
+### 3. Requisitos Técnicos
+
+- Como você gostaria que os dados fossem armazenados para a solução que estamos desenvolvendo?
+    - **Resposta:**
+    
+- Existe alguma preferência ou requisito específico em termos de tecnologia para o armazenamento de dados?
+    - **Resposta:**
+    
+- Quais são as considerações de segurança que devemos levar em conta ao lidar com os dados?
+    - **Resposta:**
+    
+- Há alguma restrição em relação à escalabilidade da solução que estamos construindo?
+    - **Resposta:**
